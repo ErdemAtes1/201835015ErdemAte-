@@ -1,0 +1,14 @@
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\bin\Debug\StokKayit-W22.exe.config
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\bin\Debug\StokKayit-W22.exe
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\bin\Debug\StokKayit-W22.pdb
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit-W22.csproj.AssemblyReference.cache
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit-W22.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit_W22.Form1.resources
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit_W22.Properties.Resources.resources
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit-W22.csproj.GenerateResource.cache
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit-W22.csproj.CoreCompileInputs.cache
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit-W22.exe
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit-W22.pdb
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit_W22.Form2.resources
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit_W22.Form3.resources
+C:\Users\erdem\source\repos\StokKayit-W22\StokKayit-W22\obj\Debug\StokKayit_W22.Form4.resources
